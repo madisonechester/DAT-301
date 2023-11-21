@@ -1,2 +1,2 @@
-# DAT-301
-Exploring Data in R and Python
+# Exploring Data in R and Python
+DAT 301 at Arizona State University
